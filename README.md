@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Bryan - Strategic Growth Consultant and Founder @awesomemonster
-- 👀 I help entrepreneurs, startups and established DTC brands grow and thrive
-- 🌱 I’m currently learning liquid and bricks
+- 👋 Hi, I’m Bryan - Rev Ops Partner and Founder @awesomemonster
+- 👀 I help entrepreneurs, startups and established DTC brands grow and thrive 
 - 📫 bryan@awesomemonster.xyz
 - 😄 he/him
 - ⚡ Fun fact: I'm probably outside right now 
